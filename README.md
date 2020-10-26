@@ -1,4 +1,4 @@
-# brickstarter
+# [brickstarter] (working name)
 groupon for social change
 - An app for funding social movements that allows organizers to create projects with funding goals, and allows members to commit to funding projects assuming their pledge goal is hit.
 
