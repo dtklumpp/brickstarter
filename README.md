@@ -57,27 +57,27 @@ groupon for social change
     - friends (user relation)
     - Stripe info (stretch goal)
 2. Project
-  -name
-  -image
-  -organizer (user relation)
-  -funding goal
-  -deadline date
+  - name
+  - image
+  - organizer (user relation)
+  - funding goal
+  - deadline date
 3. Pledge
-  -amount
-  -date
-  -user (relation)
-  -project (relation)
-  -Stripe info (stretch goal)
+  - amount
+  - date
+  - user (relation)
+  - project (relation)
+  - Stripe info (stretch goal)
 4. Category
-  -name
-  -image
-  -has_many: projects
-  -description
+  - name
+  - image
+  - has_many: projects
+  - description
 5. Comments (stretch goal)
-  -user (relation)
-  -project (relation)
-  -text
-  -datetime
+  - user (relation)
+  - project (relation)
+  - text
+  - datetime
 
 
 ## technologies to include
