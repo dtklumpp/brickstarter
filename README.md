@@ -4,12 +4,9 @@ groupon for social change
 ## mvp
 ## stretch goals
 
-
-## milestones
-
 ## user stories
 
-
+## milestones
 
 ## stretch goals
 
