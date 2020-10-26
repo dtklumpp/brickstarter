@@ -1,5 +1,5 @@
-# brickstarter
-### groupon for social change
+# brickstarter (groupon for social change)
+
 
 
 ## mvp
