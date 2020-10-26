@@ -1,5 +1,6 @@
 # brickstarter
-groupon for social change
+### groupon for social change
+
 
 ## mvp
 ## stretch goals
@@ -9,6 +10,10 @@ groupon for social change
 ## milestones
 
 ## stretch goals
+
+## models and properties
+
+## technologies to include
 
 ## wireframes
 -see wireframe doc
