@@ -80,8 +80,15 @@ groupon for social change
   -datetime
 
 
-
 ## technologies to include
+- React (or jQuery??  help!)
+- Django (or Flask?) (or Express??  help!)
+- PostgreSQL (or Mongo??  help!)
+- JWT (probably)
+- boatload of APIs
+- Bootstrap
+- AntDesign or Material-UI components
+- deploy: Heroku or AWS
 
 ## wireframes
 -see wireframe doc
@@ -90,5 +97,4 @@ groupon for social change
 -see ERDs doc
 
 ## Feasibility
--
-
+- main challenge a.t.m. to decide on the stack
