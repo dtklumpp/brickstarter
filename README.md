@@ -46,16 +46,16 @@ groupon for social change
 
 ## models and properties
 1. User
-  -name
-  -image
-  -email
-  -auth creds
-  -organizer (boolean)
-  -funded projects (relation)
-  -matched categories (relation)
-  -isOrganizer (boolean)
-  -friends (user relation)
-  -Stripe info (stretch goal)
+    -name
+    -image
+    -email
+    -auth creds
+    -organizer (boolean)
+    -funded projects (relation)
+    -matched categories (relation)
+    -isOrganizer (boolean)
+    -friends (user relation)
+    -Stripe info (stretch goal)
 2. Project
   -name
   -image
